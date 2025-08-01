@@ -1,6 +1,6 @@
-# List for **iptv.org stream China 112114**
+# List for **fanmingming/live domainv6(Invalid)**
 
-> M3U: [o_s_cn_112114.m3u](/o_s_cn_112114.m3u), TXT: [o_s_cn_112114.txt](/txt/o_s_cn_112114.txt)
+> M3U: [fmml_dv6.m3u](/fmml_dv6.m3u), TXT: [fmml_dv6.txt](/txt/fmml_dv6.txt)
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
